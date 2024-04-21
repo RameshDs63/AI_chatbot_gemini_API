@@ -1,7 +1,7 @@
 # AI_chatbot_gemini_API
 🚀🌟 Exciting News: I'm thrilled to announce the completion of the chatbot version of my Data Science AI Tutor using the Google API! 🤖🎉
 
-Project Overview: 
+Project Overview:
 ✨💻 The project is a culmination of innovative technologies, blending Streamlit's user-friendly interface with the powerful Google Gemini 1.5 Pro model. This dynamic fusion creates an interactive learning platform tailored to empower individuals with profound insights into the ever-evolving field of data science. 📊
 
 Dive into its features:
